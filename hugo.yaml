@@ -1,12 +1,12 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Smriti Sap
+title: Acme Corporation
 theme: Eclectic
 author:
   facebook: "https://www.facebook.com/smriti.sapkota.31542"
   # twitter: "https://twitter.com/example"
   email: "contact@example.org"
-  name: "Smriti Sap"
+  name: "Acme Corporation"
   location: New York
   phone: (999) 999-9999
   hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET"
