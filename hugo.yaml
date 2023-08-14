@@ -3,8 +3,8 @@ languageCode: en-us
 title: Acme Corporation
 theme: Eclectic
 author:
-  facebook: "https://www.facebook.com/smriti.sapkota.31542"
-  # twitter: "https://twitter.com/example"
+  facebook: "https://www.facebook.com/example"
+  twitter: "https://twitter.com/example"
   email: "contact@example.org"
   name: "Acme Corporation"
   location: New York
